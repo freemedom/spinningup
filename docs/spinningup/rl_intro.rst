@@ -193,10 +193,10 @@
 .. _`tf.random_normal`: https://www.tensorflow.org/api_docs/python/tf/random_normal
 .. _`tf.distributions.Normal`: https://www.tensorflow.org/api_docs/python/tf/distributions/Normal
 
-运动轨迹
+行动轨迹
 ------------
 
-运动轨迹 :math:`\tau` 指的是状态和行动的序列。
+行动轨迹 :math:`\tau` 指的是状态和行动的序列。
 
 .. math::
 
